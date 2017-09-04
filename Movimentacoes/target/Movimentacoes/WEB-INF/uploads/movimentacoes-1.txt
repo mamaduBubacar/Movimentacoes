@@ -1,0 +1,22 @@
+Filial	Periodo	Total
+São Paulo	Janeiro	14.558,00 
+Rio de Janeiro	Janeiro	125.635,00 
+Fortaleza	Janeiro	8.596,00 
+Goiânia	Janeiro	6.565,00 
+Belo Horizonte	Janeiro	8.547,00 
+Salvador	Janeiro	745,00 
+Brasilia	Janeiro	23,00 
+São Paulo	Fevereiro	85.744,00 
+Rio de Janeiro	Fevereiro	5.255,00 
+Fortaleza	Fevereiro	858.854,00 
+Goiânia	Fevereiro	6.366,00 
+Belo Horizonte	Fevereiro	2.521,00 
+Salvador	Fevereiro	88.963,00 
+Brasilia	Fevereiro	415.854,00 
+São Paulo	Março	478.996,00 
+Rio de Janeiro	Março	5.552,00 
+Fortaleza	Março	253.364,00 
+Goiânia	Março	2.512,00 
+Belo Horizonte	Março	2.455.586,00 
+Salvador	Março	25.553,00 
+Brasilia	Março	28.522,00 
